@@ -6,7 +6,7 @@ Flutter ile geliştirilmiş, gerçek API verisiyle çalışan ürün listeleme v
 
  📱 Ekran Görüntüleri
 
-![Uygulama Ekranları](screenshoots.png)
+![Uygulama Ekranları](screenshots.png)
 
 *Sol'dan sağa: Ana Sayfa · Boş Sepet · Dolu Sepet · Ürün Detayı*
 
